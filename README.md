@@ -1,0 +1,2 @@
+# Extensi-n-Biol-gica-y-Cognitiva-Arquitecturas-Toroidales-y-Resonancia-METFI
+Este repositorio explora la hipótesis de que la biología humana y sus sistemas de conciencia se organizan bajo principios toroidales análogos a los del Modelo Electromagnético Toroidal de Forzamiento Interno (METFI) Se analizan patrones en corazón, cerebro y redes celulares y se relacionan con exosomas, campos morfogenéticos y transmisión simbólica
