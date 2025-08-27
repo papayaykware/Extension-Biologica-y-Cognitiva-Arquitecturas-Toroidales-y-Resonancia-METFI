@@ -58,22 +58,4 @@ El **Modelo Electromagnético Toroidal de Forzamiento Interno (METFI)**, inicial
 ## 🔗 Relevancia  
 La extensión biológica y cognitiva del **METFI** propone que la **conciencia humana** no es un fenómeno aislado, sino un nodo de **resonancia simbólica y energética** que vincula la biología con el entorno y con escalas mayores del sistema Tierra.  
 
----
 
-## 🗺️ Diagrama conceptual  
-
-```mermaid
-graph TD
-    A[Corazón] -->|Campo toroidal| B[Cerebro]
-    B -->|Oscilaciones| C[Redes Celulares]
-    C -->|Comunicación| D[Exosomas]
-    D -->|Transferencia| E[Campos Morfogenéticos]
-    E -->|Influencia| F[Conciencia]
-    F -->|Expresión| G[Transmisión Simbólica]
-    G -->|Resonancia| A
-    F --> H[METFI]
-    H --> A
-
-✦ **Autor** GPT  Javi Proyecto abierto inspirado en el marco METFI–ECDO  
-✦ **Colaboración** Se aceptan aportes transdisciplinares (biología, neurociencia, física, filosofía).  
-✦ **Licencia** MIT (libre uso con atribución).  
