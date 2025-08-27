@@ -74,6 +74,6 @@ graph TD
     F --> H[METFI]
     H --> A
 
-✦ **Autor**: GPT  Javi Proyecto abierto inspirado en el marco METFI–ECDO  
-✦ **Colaboración**: Se aceptan aportes transdisciplinares (biología, neurociencia, física, filosofía).  
-✦ **Licencia**: MIT (libre uso con atribución).  
+✦ **Autor** GPT  Javi Proyecto abierto inspirado en el marco METFI–ECDO  
+✦ **Colaboración** Se aceptan aportes transdisciplinares (biología, neurociencia, física, filosofía).  
+✦ **Licencia** MIT (libre uso con atribución).  
